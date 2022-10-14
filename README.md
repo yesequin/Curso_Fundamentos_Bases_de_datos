@@ -1,6 +1,6 @@
 # BASES DE DATOS
 
-[Version en notion](https://www.notion.so/BASES-DE-DATOS-b51945d633a94deda8841a96436137c7) ![notion](images_DB/notion.png)
+[Version en notion](https://www.notion.so/BASES-DE-DATOS-b51945d633a94deda8841a96436137c7) ![notion](images_DB/notion.PNG)
 - GENERALIDADES
     
     ![Untitled](images_DB/Untitled.png)
